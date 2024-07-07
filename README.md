@@ -1,2 +1,3 @@
-# knight-travails
+# Knight Travails
+
 Knight travails
